@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       # 1. Checkout the repository
@@ -25,11 +25,17 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # 3. Push the generated SVG to the output branch
+      # 3. Create a dedicated folder for pushing
+      - name: Prepare output folder
+        run: |
+          mkdir output-temp
+          mv pacman-contribution-graph.svg output-temp/
+
+      # 4. Push the SVG to the output branch
       - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: .   # current repo root
+          build_dir: output-temp
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
