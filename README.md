@@ -1,7 +1,22 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">✨ I am Ritu Pal - Passionate about Artificial Intelligence, Machine Learning and Data Analytics ✨</h3>
+<h1 align="center">Hey 👋, I'm Ritu Pal</h1>
+<h3 align="center">✨ AI | Machine Learning | Data Analytics Enthusiast ✨</h3>
 
 ---
+
+<br>
+
+### 👩‍💻 About Me  
+
+- 🎓 Final-year **B.Tech CSE (AI-ML)** student at *Adani University*  
+- 🤖 Enthusiastic about **Artificial Intelligence, Machine Learning, and Cloud Computing**  
+- 📊 Skilled in **Data analytics, Deep learning, and Data visualization**  
+- 💻 Experienced in building projects across **AI, Web Development, and Data Science**  
+- 🚀 Always curious to learn, explore, and solve **real-world problems with technology**  
+- ✨ Believer in **continuous learning, creativity, and collaboration**  
+<br>
+
+---
+
 
 ### 🚀 Tech Stack
 <div align="center">
@@ -33,13 +48,13 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-<br />
+<br>
 
 ---
 
 ### 🌐 Connect with Me
 
-<a href="https://ritup04.github.io/Portfolio" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="37" height="35" /></a>
+<a href="https://ritup04.github.io/Portfolio" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/internet.png" width="37" height="35" /></a>
 <a href="https://www.linkedin.com/in/palritu"><img src="https://skillicons.dev/icons?i=linkedin" width="37" height="35" /></a>
 <a href="mailto:ritupal1626s@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="37" height="35" /></a>
 <br />
@@ -50,7 +65,7 @@
 <br clear="both">
 
 <div align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=ritup04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br> -->
+  <img src="https://streak-stats.demolab.com?user=ritup04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=ritup04&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -67,4 +82,4 @@
 
 ---
 
-⭐ *Building solutions with data, code and creativity.*
+*Building solutions with data, code and creativity.* 🍀✨
