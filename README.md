@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ritu Pal</h1>
+<h1 align="center">Hey, I'm Ritu Pal</h1>
 <h3 align="center">✨ AI | Machine Learning | Data Analytics Enthusiast ✨</h3>
 
 ---
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <a href="https://ritup04.github.io/Portfolio" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/internet.png" width="37" height="35" /></a>
 <a href="https://www.linkedin.com/in/palritu"><img src="https://skillicons.dev/icons?i=linkedin" width="37" height="35" /></a>
