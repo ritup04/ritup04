@@ -61,16 +61,16 @@
 
 ---
 
-### 
+### 📊 GitHub Stats
 <br clear="both">
 
-<div align="center">
-  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/0-profile-details.svg)
-  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/1-repos-per-language.svg)
-  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/2-most-commit-language.svg)
-  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/3-stats.svg)
-  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/4-productive-time.svg)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/0-profile-details.svg" alt="profile details" />
+  <img src="https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/1-repos-per-language.svg" alt="repos per language" />
+  <img src="https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/2-most-commit-language.svg" alt="most commit language" />
+  <img src="https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/3-stats.svg" alt="stats" />
+  <img src="https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/4-productive-time.svg" alt="productive time" />
+</p>
 
 ---
 
