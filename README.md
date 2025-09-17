@@ -65,8 +65,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritup04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritup04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/0-profile-details.svg)
+  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/1-repos-per-language.svg)
+  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/2-most-commit-language.svg)
+  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/3-stats.svg)
+  ![](https://raw.githubusercontent.com/ritup04/ritup04/master/profile-summary-card-output/radical/4-productive-time.svg)
 </div>
 
 ---
