@@ -54,7 +54,6 @@
 
 ### 🌐 Connect With Me
 
-<a href="https://ritup04.github.io/Portfolio" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/internet.png" width="37" height="35" /></a>
 <a href="https://www.linkedin.com/in/palritu"><img src="https://skillicons.dev/icons?i=linkedin" width="37" height="35" /></a>
 <a href="mailto:ritupal1626@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="37" height="35" /></a>
 <br />
